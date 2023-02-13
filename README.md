@@ -1,11 +1,8 @@
 <!--[![Header](https://github.dev/Li-K482/Li-K482/blob/main/assets/header.png)](https://)-->
 
-<<<<<<< HEAD
 ## Hi, I'm Li K., 
 ## another persistent (rookie) Frontend Developer
 
-=======
->>>>>>> 11eae1fddfc2770d8d76bc3c162caa2b368da5c9
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=ffe81c)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
