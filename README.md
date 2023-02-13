@@ -1,3 +1,5 @@
+![Header](https://github.com/Li-K482/Li-K482/blob/main/assets/header.png)
+
 ## Rookie Frontend Developer
 
 ## Languages and Tools
