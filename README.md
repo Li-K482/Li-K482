@@ -1,4 +1,4 @@
-## I'm a beginner Frontend Developer
+## Rookie Frontend Developer
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=ffe81c)
