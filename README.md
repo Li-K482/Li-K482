@@ -1,7 +1,6 @@
 <!--[![Header](https://github.dev/Li-K482/Li-K482/blob/main/assets/header.png)](https://)-->
 
-## Hi, I'm Li K., 
-## another persistent (rookie) Frontend Developer
+## Hi, I'm Li K., another Frontend Developer
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=ffe81c)
