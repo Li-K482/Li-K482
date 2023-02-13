@@ -1,4 +1,4 @@
-![Header](https://github.dev/Li-K482/Li-K482/blob/main/assets/github-header-image.png)
+[![Header](https://github.dev/Li-K482/Li-K482/blob/main/assets/header.png)](https://)
 
 ## I'm a beginner Frontend Developer
 
